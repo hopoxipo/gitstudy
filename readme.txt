@@ -5,6 +5,14 @@ Some usual git commads:
 git config --global user.<name/email> "<...>"
 git init
 git status
-git add <filename>
+git add <file>
 git commit -m "<message>"
-gir reset
+git log
+git reflog
+git reset --hard commit_id	//HEAD^ HEAD^^ HEAD~n
+git diff HEAD -- <file>
+git checkout -- <file>		//let the work file come back to latest of <git commit> or <git add>
+git reset HEAD <file>		//unstaged to the work_area
+
+
+
