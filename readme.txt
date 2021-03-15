@@ -14,5 +14,8 @@ git diff HEAD -- <file>
 git checkout -- <file>		//let the work file come back to latest of <git commit> or <git add>
 git reset HEAD <file>		//unstaged to the work_area
 
-
+```how to backtracking to the latest version when you has add the file to stage
+git reset HEAD -- <file>
+git checkout -- <file>
+```
 
