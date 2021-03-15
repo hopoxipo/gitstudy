@@ -19,3 +19,4 @@ git reset HEAD -- <file>
 git checkout -- <file>
 ```
 
+git rm <filename>	//delete both stage and work_area file
