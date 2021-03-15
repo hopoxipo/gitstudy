@@ -1,7 +1,13 @@
 test how this work.
+
+to combine local master to remote master, you can input:
+git remote add origin git@server-name:path/repo-name.git
+(eg):
+git remote add origin git@github.com:hopoxipo/gitstudy.git
+
 you can push the branch to Github.
 
-first time you should extra add "-u" to combine local master to remote master.
+first time you should extra add "-u".
 
 git push -u origin master.
 
