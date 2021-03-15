@@ -1,0 +1,8 @@
+test how this work.
+you can push the branch to Github.
+
+first time you should extra add "-u" to combine local master to remote master.
+
+git push -u origin master.
+
+the first time you should input "yes" to confirm this operate is belongs to you.
