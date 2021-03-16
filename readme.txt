@@ -48,7 +48,13 @@ Creating a new branch is quick and simple.
 edit on the new branch.
 
 
+<<<<<<< HEAD
 working branch--->work
+
+solve the bug.
 
 Attention please:
 you must to confirm that you have add the files which you have edit to the git(you don't need to submit but you must to add!!!)
+=======
+solve the bug.
+>>>>>>> 46b6b3d... fix bug 101
