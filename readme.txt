@@ -37,4 +37,8 @@ git merge <branch_name>		//merge the branch with current branch
 
 git branch -d <branch_name>	//delete a branch
 
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
