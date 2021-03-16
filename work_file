@@ -1,0 +1,4 @@
+this is the branch which you are working.
+now there is a bug which need you to solve immediately.
+
+you can use	git stash	to slove the scene.
