@@ -22,3 +22,17 @@ git checkout -- <file>
 git rm <filename>	//delete both stage and work_area file
 
 branch test
+
+You can use these usual commads to manage your branch:
+
+git branch		//view branchs
+
+git branch <branch_name>	//create a branch
+
+git checkout <branch_name>	//switch to the branch, in later version, you can also use    git switch <branch_name>    to do this
+
+git checkout -b <branch_name>	//create and switch to this new branch, also in later version, you can   git switch -c <branch_name>
+
+git merge <branch_name>		//merge the branch with current branch
+
+git branch -d <branch_name>	//delete a branch
