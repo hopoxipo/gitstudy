@@ -36,3 +36,5 @@ git checkout -b <branch_name>	//create and switch to this new branch, also in la
 git merge <branch_name>		//merge the branch with current branch
 
 git branch -d <branch_name>	//delete a branch
+
+Creating a new branch is quick & simple.
